@@ -1,0 +1,11 @@
+build/
+dist/
+installer/
+tools/
+logs/
+videos/
+__pycache__/
+*.pyc
+*.mp4
+*.mov
+*.exe
